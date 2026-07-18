@@ -1,17 +1,15 @@
 # 👋 Hi, I'm Dr Santhosh Mohan
 
-### Consultant Anaesthesiologist | Healthcare Technology Founder | Clinical AI Researcher
+### Consultant Anaesthesiologist | Healthcare Technology Founder | Clinical AI Researcher | Translational Medicine
 
-I am a consultant anaesthesiologist and healthcare technology founder with more than 15 years of experience across anaesthesia, critical care, perioperative operations, greenfield hospital development and multidisciplinary clinical leadership.
 
-I am interested in translating real healthcare workflows into responsible, evidence-informed digital health products.
 
 - 🏥 15+ years in anaesthesiology, critical care and hospital leadership
 - 🚀 Founder and Clinical Product Lead at [AetherisMed](https://www.aetherismed.com)
 - 🤖 Working across perioperative operational intelligence, clinical AI and healthcare NLP
 - 🧠 Research experience in machine-learning prediction of postoperative sodium disturbances
-- 🎓 MSc Healthcare Technologies with Distinction, King's College London
-- 📚 Currently pursuing an MBA in Healthcare Management
+- 🎓 MSc Healthcare Technologies, King's College London
+
 
 ## Current Work
 
@@ -19,16 +17,6 @@ I am interested in translating real healthcare workflows into responsible, evide
 
 [AetherisMed](https://www.aetherismed.com) is a healthcare technology startup developing **Hora**, an early-stage perioperative coordination platform.
 
-Hora is designed to help surgical and hospital teams develop a shared view of:
-
-- Operational readiness
-- Case and resource dependencies
-- Confirmation status and information freshness
-- Ownership and review requirements
-- Potentially affected cases, theatres and resources
-- Role-specific operational context
-
-Hora is currently under development and demonstrated using synthetic perioperative scenarios. It is not a medical device or clinical decision-support system.
 
 ### ClinStruct AI
 
@@ -58,17 +46,6 @@ This work originated as my individual research project at King's College London.
 - Medical Device Innovation
 - Digital Health
 - Healthcare Quality and Safety
-
-## Methods and Technologies
-
-- Python
-- Pandas and scikit-learn
-- Machine Learning
-- Natural Language Processing
-- Large Language Models
-- Clinical Workflow Modelling
-- Synthetic Scenario Testing
-- Evidence and Requirements Traceability
 
 ## Connect
 
